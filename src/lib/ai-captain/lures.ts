@@ -25,7 +25,7 @@ export type LurePointer = {
 export const LURE_CONFIGS: Record<CaptainCharacterId, LureConfig> = {
   "red-seabream": {
     characterId: "red-seabream",
-    asset: "/lures/tai-rubber.png",
+    asset: "/lures/tai-rubber.webp",
     label: "타이라바",
     widthDesktop: 68,
     hotspotX: 16,
@@ -35,7 +35,7 @@ export const LURE_CONFIGS: Record<CaptainCharacterId, LureConfig> = {
   },
   "black-seabream": {
     characterId: "black-seabream",
-    asset: "/lures/krill-chum.png",
+    asset: "/lures/krill-chum.webp",
     label: "크릴 밑밥",
     widthDesktop: 54,
     hotspotX: 26,
@@ -45,7 +45,7 @@ export const LURE_CONFIGS: Record<CaptainCharacterId, LureConfig> = {
   },
   "bigfin-reef-squid": {
     characterId: "bigfin-reef-squid",
-    asset: "/lures/egi.png",
+    asset: "/lures/egi.webp",
     label: "에기",
     widthDesktop: 70,
     hotspotX: 17,
@@ -55,7 +55,7 @@ export const LURE_CONFIGS: Record<CaptainCharacterId, LureConfig> = {
   },
   octopus: {
     characterId: "octopus",
-    asset: "/lures/octopus-lure.png",
+    asset: "/lures/octopus-lure.webp",
     label: "문어 전용 루어",
     widthDesktop: 64,
     hotspotX: 18,
@@ -65,7 +65,7 @@ export const LURE_CONFIGS: Record<CaptainCharacterId, LureConfig> = {
   },
   hairtail: {
     characterId: "hairtail",
-    asset: "/lures/metal-jig.png",
+    asset: "/lures/metal-jig.webp",
     label: "메탈지그",
     widthDesktop: 72,
     hotspotX: 18,
